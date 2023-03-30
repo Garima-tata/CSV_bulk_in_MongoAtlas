@@ -16,6 +16,9 @@ You can directly load on mongodb ATLAS. There is no need to have MongoDB in your
 
 ![git3](https://user-images.githubusercontent.com/107713921/228759562-e136d866-f79c-4ac4-ab24-564c49eeda5b.png)
 
+
+After this you can follow the Simple python script load_csv_file.
+
 # Reference 
 For writing the python script:
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_dict.html <br>
